@@ -1,11 +1,7 @@
-Ні, якщо скопіювати попередню відповідь напевно, **все відобразиться некоректно**.
 
-При копіюванні тексту з чату розмітка Markdown (заголовки, списки, форматування) зливається в один суцільний рядок (наприклад, `# Part 1... ## 1. Executive...` ідуть в один рядок), а кодові блоки розриваються.
-
-Ось повністю правильний, відформатований текст без збоїв. Скопіюйте його з блоку нижче:
 
 ```markdown
-# 🚘 Case Study: Vehicle Import Cost Calculator App
+# 🚘 Vehicle Import Cost Calculator App
 
 **Author:** Danilo Andrijašević (Business Analyst / Operations)  
 **Status:** Complete  
