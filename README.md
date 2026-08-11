@@ -31,7 +31,7 @@ I am an Operations Lead and Business Analyst with practical expertise in:
 * **Domain:** Automotive / Cost Engineering & Analytics
 * **Focus:** Data Modeling, Web Application, Custom Calculations
 * **Impact:** Automated complex tax, tariff, and shipping cost calculations into a unified web interface with Flask and SQLite.
-* **Folder:** `📁 Vehicle_Import_Calculator/`
+* **Folder:** `📁 Vehicle_Import_Calculator`
 
 ### ⚙️ Customer Operations & Support Workflow Redesign
 * **Domain:** Customer Operations / Team Leadership
