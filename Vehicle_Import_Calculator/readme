@@ -1,0 +1,41 @@
+Тепер давайте оформимо **головний `README.md**` у вашому репозиторії (або в папці `Vehicle_Import_Calculator`), щоб він служив навігаційною панеллю та презентацією проєкту.
+
+Скопіюйте цей код і вставте у файл **`README.md`**:
+
+```markdown
+# 🚘 Vehicle Import Cost Calculator App — Business Analysis Case Study
+
+**Author:** Danilo Andrijašević (Business Analyst / Operations)  
+**Status:** Complete  
+**Tech Stack / Tools:** Python (Flask), SQLite, BPMN (Mermaid), Markdown, Git
+
+---
+
+## 📌 Executive Summary
+Currently, import managers spend **up to several hours** performing manual cost calculations across disconnected Excel files and external customs schedules. 
+
+The **Vehicle Import Cost Calculator App** automates customs clearance, excise duty, VAT, and logistics estimates, cutting quote generation time to **under 2 seconds** with 0% calculation error rate.
+
+---
+
+## 📁 Repository Structure & Documentation
+
+This repository contains full end-to-end Business Analysis & Functional Documentation:
+
+| Document | Description | Key Focus Areas |
+| :--- | :--- | :--- |
+| **[📄 BRD.md](./BRD.md)** | Business Requirements Document | Problem statement, SMART objectives, Stakeholder Matrix, Core Calculation Engine |
+| **[📄 FRD_NFR.md](./FRD_NFR.md)** | Functional & Non-Functional Requirements | User Stories (Gherkin format), Acceptance Criteria, Performance & Security NFRs, RTM |
+| **[📄 Process_Modeling.md](./Process_Modeling.md)** | Process Workflows | As-Is vs To-Be process models (Mermaid BPMN diagrams), Gap Analysis |
+| **[📄 Technical_Artifacts.md](./Technical_Artifacts.md)** | Technical Design & Data Architecture | SQLite Schema (DDL), Core Python calculation logic, SQL analytical queries |
+
+---
+
+## 🎯 Key Project Highlights & Results
+
+- **99% Cycle Time Reduction:** Reduced quote generation time from hours to < 2 seconds.
+- **Data Standardization:** Replaced unmanaged Excel sheets with a relational SQLite schema.
+- **Full Traceability:** Requirements mapped directly from Business Objectives to User Stories and NFRs via RTM.
+- **Audit-Ready:** Automated generation of unique UUIDs and timestamps for every calculation.
+
+```
