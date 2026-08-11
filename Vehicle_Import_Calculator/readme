@@ -1,8 +1,3 @@
-Тепер давайте оформимо **головний `README.md**` у вашому репозиторії (або в папці `Vehicle_Import_Calculator`), щоб він служив навігаційною панеллю та презентацією проєкту.
-
-Скопіюйте цей код і вставте у файл **`README.md`**:
-
-```markdown
 # 🚘 Vehicle Import Cost Calculator App — Business Analysis Case Study
 
 **Author:** Danilo Andrijašević (Business Analyst / Operations)  
